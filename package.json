@@ -1,6 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/package",
-    "name": "markdownparser",
+    "name": "markdownhtmlparser",
     "version": "0.0.1",
     "description": "A simple Markdown to HTML parser in JavaScript.",
     "main": "MarkDownParser.js",
