@@ -1,0 +1,17 @@
+{
+    "include": [
+        "./"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        "docs",
+        ".vscode",
+    ],
+    "compilerOptions": {
+        "allowJs": true,
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "declarationMap": true
+    }
+}

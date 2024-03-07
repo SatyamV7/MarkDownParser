@@ -1,0 +1,29 @@
+{
+    "$schema": "https://json.schemastore.org/package",
+    "name": "markdownparser",
+    "version": "0.0.1",
+    "description": "A simple Markdown to HTML parser in JavaScript.",
+    "main": "MarkDownParser.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepare": "tsc --declaration --emitDeclarationOnly --allowJs MarkDownParser.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MTSOSS/MarkDownParser.git"
+    },
+    "keywords": [
+        "MarkDownParser",
+        "MarkDown to HTML",
+        "MarkDown"
+    ],
+    "bugs": {
+        "url": "https://github.com/MTSOSS/MarkDownParser/issues"
+    },
+    "homepage": "https://mtsoss.github.io/MarkDownParser/docs/",
+    "author": "Satyam Verma",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.4.2"
+    }
+}
